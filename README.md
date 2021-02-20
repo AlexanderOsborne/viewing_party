@@ -101,7 +101,8 @@ This project is deployed on:
 Several helper scripts have been created. 
 
 
-This command will setup your container. It will exit gracefully if docker is inproperly installed
+This command will wind down any containers and setup your containers and database. It will exit gracefully if docker is inproperly installed. Once this runs you must run ```docker-compose up``` to relaunch your container.
+
 ```
 /bin/docker/setup
 ```
