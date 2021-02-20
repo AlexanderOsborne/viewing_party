@@ -4,7 +4,21 @@ This was built from the base repo: [viewing party project](https://backend.turin
 
 ### About this App
 
-Viewing party is an application in which users can explore movie options and create a viewing party event for the user and their friend's. 
+This application allows a user to schedule, create, and invite their friends to movie nights!
+
+After registering with our application, we allow users to:
+* Login securely to their account
+* Request, approve, and deny other users as their friends
+* Browse for any movie they want to watch
+   * They can chose to search for movies by name, popularity, or genre!
+* Create a movie party and invite their friends to it!
+
+When searching for movies, users can use helpful information to guide their choices, such as:
+* The Movie's Theatrical Poster
+* Top Billed Cast
+* Notable Reviews
+
+While users cannot currently watch the movies they select for their parties through this application, it is our hope that providing an easy and informative application brings their movie night experience one step closer to reality!
 
 This project is deployed on:
 
@@ -48,27 +62,6 @@ This project is deployed on:
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Application
-
-This application allows a user to schedule, create, and invite their friends to movie nights!
-
-After registering with our application, we allow users to:
-* Login securely to their account
-* Request, approve, and deny other users as their friends
-* Browse for any movie they want to watch
-   * They can chose to search for movies by name, popularity, or genre!
-* Create a movie party and invite their friends to it!
-
-When searching for movies, users can use helpful information to guide their choices, such as:
-* The Movie's Theatrical Poster
-* Top Billed Cast
-* Notable Reviews
-
-While users cannot currently watch the movies they select for their parties through this application, it is our hope that providing an easy and informative application brings their movie night experience one step closer to reality!
-
 ### Built With
 
 * [Ruby on Rails](https://rubyonrails.org/)
@@ -76,19 +69,6 @@ While users cannot currently watch the movies they select for their parties thro
 * [Tailwinds](https://tailwindcss.com)
 * [Travis CI](https://travis-ci.com/)
 * [JavaScript](https://www.javascript.com)
-
-
-<!-- SCHEMA -->
-## Schema
-
-<object data="./erd.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./erd.pdf">
-    <p> Your browser does not support pdfs. Please find it <a href=https://github.com/viewingparty/viewing_party/blob/main/erd.pdf>here</a></p>
-    </embed>
-</object>
-
-See the [open issues](https://github.com/viewingparty/viewing_party/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- GETTING STARTED -->
@@ -168,6 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/viewingparty/viewing_party](https://github.com/ribbansmax/viewing_party)
 
+See the [open issues](https://github.com/viewingparty/viewing_party/issues) for a list of proposed features (and known issues).
 
 
 <!-- ACKNOWLEDGEMENTS -->
