@@ -108,6 +108,12 @@ This command will setup your container. It will exit gracefully if docker is inp
 
 Once your container is up and running you have access to the following.
 
+
+This command allows you to run a rails console in your image
+```
+bin/docker/console
+```
+
 This command allows you to run various rails commands within your container
 ```
 bin/docker/rails
