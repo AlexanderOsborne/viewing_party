@@ -70,6 +70,8 @@ This project is deployed on:
 * [Travis CI](https://travis-ci.com/)
 * [JavaScript](https://www.javascript.com)
 
+### Schema
+![Screen Shot 2021-03-04 at 9 24 16 PM](https://user-images.githubusercontent.com/64919819/110067066-21913a00-7d30-11eb-8d2e-cfc26aa93a22.png)
 
 <!-- GETTING STARTED -->
 ## Getting Started
